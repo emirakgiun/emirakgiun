@@ -1,4 +1,4 @@
-Hi 👋 I'm an analytics/ML dev specializing in building end-to-end solutions. Domains of application I'm most interested in are Finance 📈 (Risk Analysis) and 🧬 Bioinformatics (Histopathology).
+Hi 👋 I'm an analytics/ML dev specializing in building end-to-end solutions.
 
 ✨ For collaboration, feel free to reach out at akgiunemir@gmail.com
 
